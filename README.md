@@ -14,6 +14,13 @@ While predicting lottery outcomes is inherently futile in a fair system, this pr
 
 ---
 
+![a82de2901cb3791a9bee8613cf7fb54a](https://github.com/user-attachments/assets/c32d96bb-1ba0-4663-8e40-3a3a318e7e44)
+
+![649 numbers occurences (ordered by occurences)](https://github.com/user-attachments/assets/d27e538d-bfe4-4619-8ea4-a2549c0ffcbb)
+
+
+---
+
 ## ⚙️ Features
 
 ### 🔢 Forecast Generator
