@@ -59,3 +59,6 @@ python extra.py
 ## 🔒 Disclaimer
 This project is for educational and entertainment purposes only.
 It does not increase your odds of winning the lottery. Always play responsibly.
+
+That said...  
+💸 *If you do win big using this tool, consider throwing a little luck back my way. 😉
